@@ -1,3 +1,4 @@
 # EMURGO-CDP-FINAL-PROJECT
 
-Work in progress.
+To be run in Plutus Playground Blockchain Simulator
+Work in progress
