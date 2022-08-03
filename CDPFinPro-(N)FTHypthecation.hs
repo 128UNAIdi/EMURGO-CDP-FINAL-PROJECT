@@ -54,8 +54,8 @@ PlutusTx.makeLift ''LoanParams
 data LoanAction = MkLend Lend | Default | Lend
     deriving P.Show
 
-PlutusTx.unstableMakeIsData ''AuctionAction
-PlutusTx.makeLift ''AuctionAction
+PlutusTx.unstableMakeIsData ''LoanAction
+PlutusTx.makeLift ''LoanAction
 
 {-# INLINABLE loanParamsValidator #-}
 loanParamsValidator :: LoanParams -> () -> () -> ScriptContext -> Bool
