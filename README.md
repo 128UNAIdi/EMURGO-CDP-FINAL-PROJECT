@@ -1,3 +1,3 @@
 # EMURGO-CDP-FINAL-PROJECT
 
-Work is still in progress.
+Work in progress.
